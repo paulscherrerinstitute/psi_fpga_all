@@ -1,0 +1,21 @@
+[submodule "VHDL/psi_tb"]
+	path = VHDL/psi_tb
+	url = https://github.com/paulscherrerinstitute/psi_tb
+[submodule "VHDL/psi_common"]
+	path = VHDL/psi_common
+	url = https://github.com/paulscherrerinstitute/psi_common
+[submodule "TCL/PsiSim"]
+	path = TCL/PsiSim
+	url = https://github.com/paulscherrerinstitute/PsiSim
+[submodule "Python/PsiPyUtils"]
+	path = Python/PsiPyUtils
+	url = https://github.com/paulscherrerinstitute/PsiPyUtils
+[submodule "Python/TbGenerator"]
+	path = Python/TbGenerator
+	url = https://github.com/paulscherrerinstitute/TbGenerator
+[submodule "Python/VivadoScripting"]
+	path = Python/VivadoScripting
+	url = https://github.com/paulscherrerinstitute/VivadoScripting
+[submodule "Python/IseScripting"]
+	path = Python/IseScripting
+	url = https://github.com/paulscherrerinstitute/IseScripting
