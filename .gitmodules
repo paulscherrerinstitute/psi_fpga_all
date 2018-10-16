@@ -19,3 +19,9 @@
 [submodule "Python/IseScripting"]
 	path = Python/IseScripting
 	url = https://github.com/paulscherrerinstitute/IseScripting
+[submodule "VHDL/en_cl_fix"]
+	path = VHDL/en_cl_fix
+	url = https://github.com/paulscherrerinstitute/en_cl_fix
+[submodule "VHDL/psi_fix"]
+	path = VHDL/psi_fix
+	url = https://github.com/paulscherrerinstitute/psi_fix
