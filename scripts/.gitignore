@@ -1,0 +1,7 @@
+#Ignore everything except the file types required
+*
+!*.tcl
+!.gitignore
+
+#Ignore artifacts from runs
+psi_sim_run.tcl

@@ -25,3 +25,30 @@
 [submodule "VHDL/psi_fix"]
 	path = VHDL/psi_fix
 	url = https://github.com/paulscherrerinstitute/psi_fix
+[submodule "TCL/PsiIpPackage"]
+	path = TCL/PsiIpPackage
+	url = https://github.com/paulscherrerinstitute/PsiIpPackage
+[submodule "VivadoIp/vivadoIP_data_rec"]
+	path = VivadoIp/vivadoIP_data_rec
+	url = https://github.com/paulscherrerinstitute/vivadoIP_data_rec
+[submodule "VivadoIp/vivadoIP_clock_measure"]
+	path = VivadoIp/vivadoIP_clock_measure
+	url = https://github.com/paulscherrerinstitute/vivadoIP_clock_measure
+[submodule "VivadoIp/vivadoIP_spi_simple"]
+	path = VivadoIp/vivadoIP_spi_simple
+	url = https://github.com/paulscherrerinstitute/vivadoIP_spi_simple
+[submodule "VivadoIp/vivadoIP_axis_data_gen"]
+	path = VivadoIp/vivadoIP_axis_data_gen
+	url = https://github.com/paulscherrerinstitute/vivadoIP_axis_data_gen
+[submodule "VivadoIp/vivadoIP_mem_test"]
+	path = VivadoIp/vivadoIP_mem_test
+	url = https://github.com/paulscherrerinstitute/vivadoIP_mem_test
+[submodule "VHDL/psi_multi_stream_daq"]
+	path = VHDL/psi_multi_stream_daq
+	url = https://github.com/paulscherrerinstitute/psi_multi_stream_daq
+[submodule "VivadoIp/vivadoIP_psi_ms_daq"]
+	path = VivadoIp/vivadoIP_psi_ms_daq
+	url = https://github.com/paulscherrerinstitute/vivadoIP_psi_ms_daq
+[submodule "Python/PsiFpgaLibDependencies"]
+	path = Python/PsiFpgaLibDependencies
+	url = https://github.com/paulscherrerinstitute/PsiFpgaLibDependencies
