@@ -26,6 +26,12 @@ source package.tcl
 cd $myPath/../VivadoIp/vivadoIP_spi_simple/scripts
 source package.tcl
 
+cd $myPath/../VivadoIp/vivadoIP_i2c_devreg/scripts
+source package.tcl
+
+cd $myPath/../VivadoIp/vivadoIP_power_sink/scripts
+source package.tcl
+
 #Go back to initial directory
 cd $myPath
 

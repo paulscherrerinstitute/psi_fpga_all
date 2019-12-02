@@ -27,9 +27,8 @@ source config.tcl
 cd $myPath/../VivadoIp/vivadoIP_axis_data_gen/sim
 source config.tcl
 
-#TB not GHDL compatible! (because of GHDL bug)
-#cd $myPath/../VivadoIp/vivadoIP_clock_measure/sim
-#source config.tcl
+cd $myPath/../VivadoIp/vivadoIP_clock_measure/sim
+source config.tcl
 
 #TB not GHDL compatible!
 #cd $myPath/../VivadoIp/vivadoIP_data_rec/sim
@@ -40,6 +39,12 @@ source config.tcl
 
 cd $myPath/../VivadoIp/vivadoIP_spi_simple/sim
 source config.tcl
+
+cd $myPath/../VivadoIp/vivadoIP_i2c_devreg/sim
+source config.tcl
+
+#cd $myPath/../VivadoIp/vivadoIP_power_sink/sim
+#Does not have a self-checking TB because power consumption/toggling/optimization cannot be simulated!
 
 cd $myPath
 

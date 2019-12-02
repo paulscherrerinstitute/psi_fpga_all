@@ -52,3 +52,9 @@
 [submodule "Python/PsiFpgaLibDependencies"]
 	path = Python/PsiFpgaLibDependencies
 	url = https://github.com/paulscherrerinstitute/PsiFpgaLibDependencies
+[submodule "VivadoIp/vivadoIP_i2c_devreg"]
+	path = VivadoIp/vivadoIP_i2c_devreg
+	url = https://github.com/paulscherrerinstitute/vivadoIP_i2c_devreg
+[submodule "VivadoIp/vivadoIP_power_sink"]
+	path = VivadoIp/vivadoIP_power_sink
+	url = https://github.com/paulscherrerinstitute/vivadoIP_power_sink
