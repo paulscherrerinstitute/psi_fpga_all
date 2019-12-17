@@ -2,6 +2,7 @@
 
 ## Maintainer
 Oliver Bründler [oliver.bruendler@psi.ch]
+Benoit Stef [benoit.stef@psi.ch]
 
 ## Changelog
 See [Changelog](Changelog.md)
