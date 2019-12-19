@@ -4,8 +4,8 @@
 Benoit Stef [benoit.stef@psi.ch]
 
 ## Authors
-Oliver Bründler [oli.bruendler@gmx.ch]
-Benoit Stef [benoit.stef@psi.ch]
+* Oliver Bründler [oli.bruendler@gmx.ch]
+* Benoit Stef [benoit.stef@psi.ch]
 
 ## Changelog
 See [Changelog](Changelog.md)
