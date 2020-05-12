@@ -1,8 +1,11 @@
 # General Information
 
 ## Maintainer
-Oliver Bründler [oliver.bruendler@psi.ch]
 Benoit Stef [benoit.stef@psi.ch]
+
+## Authors
+* Oliver Bründler [oli.bruendler@gmx.ch]
+* Benoit Stef [benoit.stef@psi.ch]
 
 ## Changelog
 See [Changelog](Changelog.md)
