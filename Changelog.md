@@ -1,3 +1,18 @@
+## 2020.1 (12.05.2020)
+* TCL
+  * [PsiIpPackage] (https://github.com/paulscherrerinstitute/PsiIpPackage) 2.2.0
+* VHDL
+  * [psi\_common](https://github.com/paulscherrerinstitute/psi_common) 2.12.0
+  * [psi\_tb](https://github.com/paulscherrerinstitute/psi_tb) 2.6.0
+  * [psi\_fix](https://github.com/paulscherrerinstitute/psi_fix) 2.4.1
+* Python
+  * [TbGenerator](https://github.com/paulscherrerinstitute/TbGenerator) 3.0.4
+* VivadoIP
+  * [vivadoIP_axis_mm_reader](https://github.com/paulscherrerinstitute/vivadoIP_axis_mm_reader) 1.0.0
+  * [vivadoIP_fpga_base](https://github.com/paulscherrerinstitute/vivadoIP_fpga_base) 1.4.0
+  * [vivadoIP_sync_det_edge](https://github.com/paulscherrerinstitute/vivadoIP_sync_det_edge) V1.00_20180125
+
+
 ## 2019.4 (02.12.2019)
 * TCL
   * [PsiSim](https://github.com/paulscherrerinstitute/PsiSim) 2.4.0

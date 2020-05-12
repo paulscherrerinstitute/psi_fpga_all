@@ -43,6 +43,9 @@ source config.tcl
 cd $myPath/../VivadoIp/vivadoIP_i2c_devreg/sim
 source config.tcl
 
+cd $myPath/../VivadoIp/vivadoIP_axi_mm_reader/sim
+source config.tcl
+
 #cd $myPath/../VivadoIp/vivadoIP_power_sink/sim
 #Does not have a self-checking TB because power consumption/toggling/optimization cannot be simulated!
 

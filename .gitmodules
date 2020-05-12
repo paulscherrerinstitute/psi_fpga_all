@@ -58,3 +58,12 @@
 [submodule "VivadoIp/vivadoIP_power_sink"]
 	path = VivadoIp/vivadoIP_power_sink
 	url = https://github.com/paulscherrerinstitute/vivadoIP_power_sink
+[submodule "VivadoIp/vivadoIP_fpga_base"]
+	path = VivadoIp/vivadoIP_fpga_base
+	url = https://github.com/paulscherrerinstitute/vivadoIP_fpga_base.git
+[submodule "VivadoIp/vivadoIP_sync_edge_det"]
+	path = VivadoIp/vivadoIP_sync_edge_det
+	url = https://github.com/paulscherrerinstitute/vivadoIP_sync_edge_det.git
+[submodule "VivadoIp/vivadoIP_axi_mm_reader"]
+	path = VivadoIp/vivadoIP_axi_mm_reader
+	url = https://github.com/paulscherrerinstitute/vivadoIP_axi_mm_reader.git
