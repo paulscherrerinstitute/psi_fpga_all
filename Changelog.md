@@ -1,3 +1,21 @@
+## 2020.2 (20.10.2020)
+* TCL
+  * [PsiSim](https://github.com/paulscherrerinstitute/PsiSim) 2.5.0
+  * [PsiIpPackage] (https://github.com/paulscherrerinstitute/PsiIpPackage) 2.3.0
+* VHDL
+  * [en\_cl\_fix](https://github.com/paulscherrerinstitute/en_cl_fix) 1.1.5
+  * [psi\_common](https://github.com/paulscherrerinstitute/psi_common) 2.13.0
+  * [psi\_multi\_stream\_daq](https://github.com/paulscherrerinstitute/psi_multi_stream_daq) 1.2.3
+* Python
+  * [IseScripting](https://github.com/paulscherrerinstitute/IseScripting) 3.1.0
+  * [VivadoScripting](https://github.com/paulscherrerinstitute/VivadoScripting) 4.3.0
+  * [PsiFpgaLibDependencies](https://github.com/paulscherrerinstitute/PsiFpgaLibDependencies) 2.1.0
+* VivadoIP
+  * [vivadoIP_axis_data_gen](https://github.com/paulscherrerinstitute/vivadoIP_axis_data_gen) 1.2.1
+  * [vivadoIP_clock_measure](https://github.com/paulscherrerinstitute/vivadoIP_clock_measure) 1.5.0    
+  * [vivadoIP_i2c_devreg](https://github.com/paulscherrerinstitute/vivadoIP_i2c_devreg) 1.1.2  
+  * [vivadoIP_mem_test](https://github.com/paulscherrerinstitute/vivadoIP_mem_test) 1.3.0
+
 ## 2020.1 (12.05.2020)
 * TCL
   * [PsiIpPackage] (https://github.com/paulscherrerinstitute/PsiIpPackage) 2.2.0
@@ -11,7 +29,6 @@
   * [vivadoIP_axis_mm_reader](https://github.com/paulscherrerinstitute/vivadoIP_axis_mm_reader) 1.0.0
   * [vivadoIP_fpga_base](https://github.com/paulscherrerinstitute/vivadoIP_fpga_base) 1.4.0
   * [vivadoIP_sync_det_edge](https://github.com/paulscherrerinstitute/vivadoIP_sync_det_edge) V1.00_20180125
-
 
 ## 2019.4 (02.12.2019)
 * TCL
