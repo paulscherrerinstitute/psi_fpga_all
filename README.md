@@ -35,7 +35,7 @@ Alternatively only the repositories used can be checked out manually into the di
 Because the repository contains submodules, it must be cloned with the *--recurse-submodules* option:
 
 ```
-git clone --recurse-submodules https://github.com/paulscherrerinstitute/psi_fpga_all
+git clone --recurse-submodules git@github.com:paulscherrerinstitute/psi_fpga_all.git
 ```
 
 
