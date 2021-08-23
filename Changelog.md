@@ -1,3 +1,13 @@
+## 2021.1 (23.08.2021)
+* TCL
+  * [PsiIpPackage] (https://github.com/paulscherrerinstitute/PsiIpPackage) 2.4.0
+* VHDL
+  * [en\_cl\_fix](https://github.com/paulscherrerinstitute/en_cl_fix) 1.1.8
+  * [psi\_common](https://github.com/paulscherrerinstitute/psi_common) 2.17.0
+  * [psi\_fix](https://github.com/paulscherrerinstitute/psi_fix) 3.1.0
+* VivadoIP 
+  * [vivadoIP_mem_test](https://github.com/paulscherrerinstitute/vivadoIP_mem_test) 1.3.0  
+  
 ## 2020.2 (20.10.2020)
 * TCL
   * [PsiSim](https://github.com/paulscherrerinstitute/PsiSim) 2.5.0
