@@ -1,69 +1,69 @@
 [submodule "VHDL/psi_tb"]
 	path = VHDL/psi_tb
-	url = git@github.com:paulscherrerinstitute/psi_tb.git
+	url = ../../paulscherrerinstitute/psi_tb.git
 [submodule "VHDL/psi_common"]
 	path = VHDL/psi_common
-	url = git@github.com:paulscherrerinstitute/psi_common.git
+	url = ../../paulscherrerinstitute/psi_common.git
 [submodule "TCL/PsiSim"]
 	path = TCL/PsiSim
-	url = git@github.com:paulscherrerinstitute/PsiSim.git
+	url = ../../paulscherrerinstitute/PsiSim.git
 [submodule "Python/PsiPyUtils"]
 	path = Python/PsiPyUtils
-	url = git@github.com:paulscherrerinstitute/PsiPyUtils.git
+	url = ../../paulscherrerinstitute/PsiPyUtils.git
 [submodule "Python/TbGenerator"]
 	path = Python/TbGenerator
-	url = git@github.com:paulscherrerinstitute/TbGenerator.git
+	url = ../../paulscherrerinstitute/TbGenerator.git
 [submodule "Python/VivadoScripting"]
 	path = Python/VivadoScripting
-	url = git@github.com:paulscherrerinstitute/VivadoScripting.git
+	url = ../../paulscherrerinstitute/VivadoScripting.git
 [submodule "Python/IseScripting"]
 	path = Python/IseScripting
-	url = git@github.com:paulscherrerinstitute/IseScripting.git
+	url = ../../paulscherrerinstitute/IseScripting.git
 [submodule "VHDL/en_cl_fix"]
 	path = VHDL/en_cl_fix
-	url = git@github.com:paulscherrerinstitute/en_cl_fix.git
+	url = ../../paulscherrerinstitute/en_cl_fix.git
 [submodule "VHDL/psi_fix"]
 	path = VHDL/psi_fix
-	url = git@github.com:paulscherrerinstitute/psi_fix.git
+	url = ../../paulscherrerinstitute/psi_fix.git
 [submodule "TCL/PsiIpPackage"]
 	path = TCL/PsiIpPackage
-	url = git@github.com:paulscherrerinstitute/PsiIpPackage.git
+	url = ../../paulscherrerinstitute/PsiIpPackage.git
 [submodule "VivadoIp/vivadoIP_data_rec"]
 	path = VivadoIp/vivadoIP_data_rec
-	url = git@github.com:paulscherrerinstitute/vivadoIP_data_rec.git
+	url = ../../paulscherrerinstitute/vivadoIP_data_rec.git
 [submodule "VivadoIp/vivadoIP_clock_measure"]
 	path = VivadoIp/vivadoIP_clock_measure
-	url = git@github.com:paulscherrerinstitute/vivadoIP_clock_measure.git
+	url = ../../paulscherrerinstitute/vivadoIP_clock_measure.git
 [submodule "VivadoIp/vivadoIP_spi_simple"]
 	path = VivadoIp/vivadoIP_spi_simple
-	url = git@github.com:paulscherrerinstitute/vivadoIP_spi_simple.git
+	url = ../../paulscherrerinstitute/vivadoIP_spi_simple.git
 [submodule "VivadoIp/vivadoIP_axis_data_gen"]
 	path = VivadoIp/vivadoIP_axis_data_gen
-	url = git@github.com:paulscherrerinstitute/vivadoIP_axis_data_gen.git
+	url = ../../paulscherrerinstitute/vivadoIP_axis_data_gen.git
 [submodule "VivadoIp/vivadoIP_mem_test"]
 	path = VivadoIp/vivadoIP_mem_test
-	url = git@github.com:paulscherrerinstitute/vivadoIP_mem_test.git
+	url = ../../paulscherrerinstitute/vivadoIP_mem_test.git
 [submodule "VHDL/psi_multi_stream_daq"]
 	path = VHDL/psi_multi_stream_daq
-	url = git@github.com:paulscherrerinstitute/psi_multi_stream_daq.git
+	url = ../../paulscherrerinstitute/psi_multi_stream_daq.git
 [submodule "VivadoIp/vivadoIP_psi_ms_daq"]
 	path = VivadoIp/vivadoIP_psi_ms_daq
-	url = git@github.com:paulscherrerinstitute/vivadoIP_psi_ms_daq.git
+	url = ../../paulscherrerinstitute/vivadoIP_psi_ms_daq.git
 [submodule "Python/PsiFpgaLibDependencies"]
 	path = Python/PsiFpgaLibDependencies
-	url = git@github.com:paulscherrerinstitute/PsiFpgaLibDependencies.git
+	url = ../../paulscherrerinstitute/PsiFpgaLibDependencies.git
 [submodule "VivadoIp/vivadoIP_i2c_devreg"]
 	path = VivadoIp/vivadoIP_i2c_devreg
-	url = git@github.com:paulscherrerinstitute/vivadoIP_i2c_devreg.git
+	url = ../../paulscherrerinstitute/vivadoIP_i2c_devreg.git
 [submodule "VivadoIp/vivadoIP_power_sink"]
 	path = VivadoIp/vivadoIP_power_sink
-	url = git@github.com:paulscherrerinstitute/vivadoIP_power_sink.git
+	url = ../../paulscherrerinstitute/vivadoIP_power_sink.git
 [submodule "VivadoIp/vivadoIP_fpga_base"]
 	path = VivadoIp/vivadoIP_fpga_base
-	url = git@github.com:paulscherrerinstitute/vivadoIP_fpga_base.git
+	url = ../../paulscherrerinstitute/vivadoIP_fpga_base.git
 [submodule "VivadoIp/vivadoIP_sync_edge_det"]
 	path = VivadoIp/vivadoIP_sync_edge_det
-	url = git@github.com:paulscherrerinstitute/vivadoIP_sync_edge_det.git
+	url = ../../paulscherrerinstitute/vivadoIP_sync_edge_det.git
 [submodule "VivadoIp/vivadoIP_axi_mm_reader"]
 	path = VivadoIp/vivadoIP_axi_mm_reader
-	url = git@github.com:paulscherrerinstitute/vivadoIP_axi_mm_reader.git
+	url = ../../paulscherrerinstitute/vivadoIP_axi_mm_reader.git

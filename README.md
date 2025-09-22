@@ -38,5 +38,8 @@ Because the repository contains submodules, it must be cloned with the *--recurs
 git clone --recurse-submodules git@github.com:paulscherrerinstitute/psi_fpga_all.git
 ```
 
+If you do not have a github account with SSH configured use https instead:
 
-
+```
+git clone --recurse-submodules https://www.github.com/paulscherrerinstitute/psi_fpga_all.git
+```
